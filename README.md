@@ -10,5 +10,6 @@ Aquí hay algunas de mis habilidades de programación destacadas:
 ![Spring Boot icon](https://img.icons8.com/color/48/000000/spring-logo.png) 
 ![Python icon](https://img.icons8.com/color/48/000000/python.png)
 ![PostgreSQL icon](https://img.icons8.com/color/48/000000/postgreesql.png) 
+
 ![Postman icon](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 ![Git icon](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
