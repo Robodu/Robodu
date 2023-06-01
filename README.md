@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Rogeiro Bothia]
+# ¡Hola! 👋 Soy Rogeiro Bothia
 
 Soy un Ingeniero de Sistemas en formación. Me apasiona el desarrollo back-end y siempre estoy buscando formas de mejorar mis habilidades y aprender cosas nuevas.
 
